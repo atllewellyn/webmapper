@@ -1,7 +1,6 @@
 webmapper
 =========
-.. image:: https://img.shields.io/github/license/geopy/geopy.svg?style=flat-square
-    :target: https://pypi.python.org/pypi/geopy/
+.. image:: https://img.shields.io/github/license/atllewellyn/webmapper.svg?style=flat-square
     :alt: License
 
 
@@ -10,7 +9,7 @@ webmapper is a Python client for creating a recursive url web map from a base ur
 webmapper is tested against Python versions 3.7, 3.8, 3.9
 
 © atllewellyn 2021 under the `MIT
-License <https://github.com/geopy/geopy/blob/master/LICENSE>`__.
+License <https://github.com/atllewellyn/webmapper/blob/main/LICENSE>`__.
 
 usage
 -----
